@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.content-container {
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+
+.navbar {
+    margin: 0;
+    display: flex;
+    padding: 12px;
+    border-top: #333333;
+    color: #666666;
+    font-family: monospace, sans-serif;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+.navbar li {
+    padding: 0 0 0 8px;
+
+}
+
+
