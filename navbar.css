@@ -20,8 +20,14 @@ html, body {
 }
 
 .navbar li {
-    padding: 0 0 0 8px;
+    padding: 0 0 0 14px;
 
 }
 
+.navbar li:hover {
+    opacity: 0.6;
+}
 
+.navbar li:active {
+    color: #888888;
+}
