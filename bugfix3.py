@@ -1,2 +1,1 @@
-print('Bugfix #3')
-print('Ahora agregaremos 4 comentarios')
+print('Ahora no quiero un maldito comentario')
